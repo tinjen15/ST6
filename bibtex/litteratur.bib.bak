@@ -1,0 +1,44 @@
+@book{Bhatia2006,
+	author={G. Bhatia and Michael Sosin and Gurbir Bhatia and Gregory Lip},
+	year={2006},
+	month={2006},
+	title={A colour handbook of heart failure : investigation, diagnosis, treatment},
+	publisher={London : Manson Publishing},
+	edition={Elektronisk udgave},
+	isbn={1-84076-059-1; 1-282-04992-5},
+	language={English},
+	owner= {Mathilde}
+}
+
+@article {Mozaffarian2015,
+	author = {Mozaffarian, Dariush and Benjamin, Emelia J. and Go, Alan S. and Arnett, Donna K. and Blaha, Michael J. and Cushman, Mary and Das, Sandeep R. and de Ferranti, Sarah and Despr{\'e}s, Jean-Pierre and Fullerton, Heather J. and Howard, Virginia J. and Huffman, Mark D. and Isasi, Carmen R. and Jim{\'e}nez, Monik C. and Judd, Suzanne E. and Kissela, Brett M. and Lichtman, Judith H. and Lisabeth, Lynda D. and Liu, Simin and Mackey, Rachel H. and Magid, David J. and McGuire, Darren K. and Mohler, Emile R. and Moy, Claudia S. and Muntner, Paul and Mussolino, Michael E. and Nasir, Khurram and Neumar, Robert W. and Nichol, Graham and Palaniappan, Latha and Pandey, Dilip K. and Reeves, Mathew J. and Rodriguez, Carlos J. and Rosamond, Wayne and Sorlie, Paul D. and Stein, Joel and Towfighi, Amytis and Turan, Tanya N. and Virani, Salim S. and Woo, Daniel and Yeh, Robert W. and Turner, Melanie B.},
+	title = {Heart Disease and Stroke Statistics{\textemdash}2016 Update},
+	year = {2015},
+	publisher = {American Heart Association, Inc.},
+	issn = {0009-7322},
+	URL = {http://circ.ahajournals.org/content/early/2015/12/16/CIR.0000000000000350},
+	journal = {Circulation},
+	owner= {Mathilde}
+}
+
+@article {Christiansen2017,
+	author = {Christiansen, Mia N. and K{\o}ber, Lars and Weeke, Peter and Vasan, Ramachandran S. and Jeppesen, J{\o}rgen L. and Smith, J. Gustav and Gislason, Gunnar H. and Torp-Pedersen, Christian and Andersson, Charlotte},
+	title = {Age-specific Trends in Incidence, Mortality and Comorbidities of Heart Failure in Denmark 1995-2012},
+	year = {2017},
+	issn = {0009-7322},
+	URL = {http://circ.ahajournals.org/content/early/2017/02/07/CIRCULATIONAHA.116.025941},
+	journal = {Circulation},
+	owner= {Mathilde}
+}
+
+@misc {DanskCardiologiskSelskab2007,
+	author = {{Dansk Cardiologisk Selskab}},
+	title = {Hjerteinsufficiens},
+	year = {2007},
+	URL = {www.cardio.dk/docman/doc_download/146-hjerteinsufficiens},
+	urldate = {13.02.2017},
+	isbn={978-87-92010-06-3},
+	owner= {Mathilde}
+}
+
+
