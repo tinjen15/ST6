@@ -37,13 +37,19 @@
 \include{formalia/indledning}
 
 
-%% Problem %%
+%% Part: Problem %%
+\begingroup
+\let\clearpage\relax
+\include{Problemanalyse/SoevnGenerelt}
+\include{Problemanalyse/SoevnAnbefalinger}
+\include{Problemanalyse/KonsekvenserVedSoevnUnderskud}
+\include{Problemanalyse/HvorforSoverBefolkningenIkkeNok}
+\include{Problemanalyse/Behandling}
+\endgroup
+\include{Problemanalyse/Problemafgraensning}
 
-\include{Problemanalyse/UngesSoevnOganbefalinger}
-\include{Problemanalyse/hvorforSoverDeUngeIkkeNok}
-\include{Problemanalyse/Problemformulering}
 
-%% Problemloesning %%
+%% Part: Problemloesning %%
 
 \include{Problemloesning/Loesningsstrategi}
 \include{Problemloesning/Krav}
@@ -52,7 +58,7 @@
 \include{Problemloesning/Implementering}
 \include{Problemloesning/Test}
 
-%% Syntese %%
+%% Part: Syntese %%
 
 
 
